@@ -1,6 +1,4 @@
-/*
-comments
-*/
+
 export default {
   /*
   ** Nuxt rendering mode
